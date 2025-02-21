@@ -70,10 +70,10 @@
   
 <!-- Social Media Banners -->
   
-<a href="https://github.com/hashfx" target="_blank"> ![Github: hashfx](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github)</a>
-<a href="http://harshsoni.me/Portfolio2022">![Website: 3D Portfolio](https://img.shields.io/badge/website-000000?style=plastic&logo=About.me&logoColor=white)</a>
-<a href="https://www.instagram.com/hash.prog">![Instagram: hash.prog](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)</a>
-<a href="https://stackoverflow.com/users/14162484/hash-fx" target="_blank"> ![StackOverFlow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white)</a>
+<a href="https://github.com/avilacrew369" target="_blank"> ![Github: hashfx](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github)</a>
+
+<a href="https://www.instagram.com/avilacrew">![Instagram: avilacrew](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)</a>
+<a href="#" target="_blank"> ![StackOverFlow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white)</a>
 <img src="https://komarev.com/ghpvc/?username=hashfx&label=Profile%20views&color=0e75b6&style=flat" alt="hashfx" />
 
 
