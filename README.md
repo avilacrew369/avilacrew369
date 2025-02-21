@@ -10,11 +10,21 @@
 
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Panther | 💻 Front end Developer | México <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
-</div>
-## I code with
-<img align="right" height="150" src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif"  />
 
-<a href="https://github.com/arshadakl?tab=repositories"> 
+<p align="center">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=I´m+still+in+the+Learing+Process!&center=true&width=360&height=30">
+</p>
+  
+</div>
+<div >
+<img align="right" height="110"  src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif"  />
+  <h2>--------------------------------------------------------------------------------------------</h2>
+</div>
+  Programming Languages 🌐
+
+
+  <h4 align="center">----------------------------------------------------------------------------------</h2>
+<a href="https://github.com/avilacrew369?tab=repositories"> 
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
@@ -69,18 +79,17 @@
   
 <!-- Social Media Banners -->
   
-<a href="https://github.com/avilacrew369" target="_blank"> ![Github: hashfx](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github)</a>
+<a href="https://github.com/avilacrew369" target="_blank"> ![Github: avilacrew369](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
 
-<a href="https://www.instagram.com/avilacrew">![Instagram: avilacrew](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)</a>
-<a href="#" target="_blank"> ![StackOverFlow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white)</a>
-<img src="https://komarev.com/ghpvc/?username=hashfx&label=Profile%20views&color=0e75b6&style=flat" alt="hashfx" />
+<a href="https://www.instagram.com/avilacrew">![Instagram: avilacrew](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+<a href="#" target="_blank"> ![facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
+
 
 
 ###
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arshadakl&theme=merko&hide_border=false&include_all_commits=true&count_private=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshadakl&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avilacrew369&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" alt="languages graph"  />
 </div>
 
 ###
