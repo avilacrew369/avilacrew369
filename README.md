@@ -56,10 +56,12 @@
 </p>
 
 <br>
+<p align="center">
 <a href="#"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
   <a href="#"><img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"></a>
   &emsp;
+  </p>
 
 
 <!-- Social Media Handles -->
