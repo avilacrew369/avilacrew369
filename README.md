@@ -48,10 +48,11 @@
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
   &emsp;
+  <a href="#"><img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"></a>
+  &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/visual-studio-marketplace/i/:extensionId
-" ></a>
+    <a href="#"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" ></a>
 </p>
 
 
