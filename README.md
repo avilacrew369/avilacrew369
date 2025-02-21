@@ -4,11 +4,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39D353&center=true&random=false&width=435&lines=I+am+Arshad;welcome+to+my+Github;Full+Stack+Developer;Node.js_React.js_MongoDB_Express.js)](https://git.io/typing-svg)
 <span/>
 
-###
- ✨ Am here, Panther, <br>
- :zap: Forging bug-free pathways since 2020<br>
- :speech_balloon: Driving MERN projects to success.
-###
 </div>
 
 <p align='center'>
@@ -21,7 +16,7 @@
 
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Hemant Joshi | 💻 Full Stack Developer | 🛸 India , UK <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Panther | 💻 Front end Developer | México <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 ## I code with
 <img align="right" height="150" src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif"  />
