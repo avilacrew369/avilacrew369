@@ -4,29 +4,25 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39D353&center=true&random=false&width=435&lines=I+am+Panther;welcome+to+my+Github;Front+End+Developer;Node.js_)](https://git.io/typing-svg)
 <span/>
 
-</div>
-
-
 
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Panther | 💻 Front end Developer | México <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines="I´m+still+in+the+Learing+Process!&center=true&width=360&height=30">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=iI´m+still+learning+and+studyng!&center=true&width=360&height=30">
 </p>
   
 </div>
-<div >
-<img align="right" height="110"  src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif"  />
-  <h2>--------------------------------------------------------------------------------------------</h2>
-</div>
-  Programming Languages 🌐
+<p>
+ Programming Languages 🌐
+</p>
+  
 
 
-  <h4 align="center">----------------------------------------------------------------------------------</h2>
+  <h4 align="center" >------------------------------------------------------------------------------------------</h2>
 <a href="https://github.com/avilacrew369?tab=repositories"> 
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
@@ -52,6 +48,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
 </div>
 <a/>
+ <h2>------------------------------------------------------------------------------------------</h2>
 <p align="center">
     <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
   &emsp;
@@ -88,13 +85,18 @@
 
 ###
 <br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avilacrew369&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" alt="languages graph"  />
+<div >
+ 
+ 
+  <img align="center"  height="400"   src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif" />
 </div>
 
-###
 
-------
+###
+<div  align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avilacrew369&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact"  height="200" alt="languages graph"  />
+</div>
+
 Credits : [avilacrew369](https://github.com/avilacrew369)
 
 Last Edited on: 20/02/2025
