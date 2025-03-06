@@ -12,7 +12,7 @@
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Panther | 💻 Front end Developer | México <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=I´m+still+in+the+Learing+Process!&center=true&width=360&height=30">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines="I´m+still+in+the+Learing+Process!&center=true&width=360&height=30">
 </p>
   
 </div>
