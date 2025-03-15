@@ -91,10 +91,16 @@
   <img align="center"  height="400"   src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif" />
 </div>
 
+<br />
+<br />
+
+<br />
+<br />
+
 
 ###
 <div  align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avilacrew369&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact"  height="200" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avilacrew369&layout=compact&theme=dark&bg_color=0A0A0A" alt="Abdo Achhoubi Top Languages"/>
 </div>
 
 Credits : [avilacrew369](https://github.com/avilacrew369)
